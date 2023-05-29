@@ -1,2 +1,2 @@
 # testeTeam
-Teste para aprender utilizar commits
+Teste para aprender usar commits
